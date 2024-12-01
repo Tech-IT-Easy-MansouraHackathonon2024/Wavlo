@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabibApp.MailService", "TabibApp.MailService.csproj", "{43833EBD-5207-42A1-93DD-90BB73A56FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43833EBD-5207-42A1-93DD-90BB73A56FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43833EBD-5207-42A1-93DD-90BB73A56FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43833EBD-5207-42A1-93DD-90BB73A56FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43833EBD-5207-42A1-93DD-90BB73A56FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16BDF10D-86E5-4F44-95E5-A1B13B66EB41}
+	EndGlobalSection
+EndGlobal
